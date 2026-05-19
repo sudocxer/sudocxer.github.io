@@ -1,0 +1,17 @@
+html {
+    align-items: center;
+    font-family: "Cascadia Mono";
+    background-color: #1e1e1e;
+    color: #c8c8c8;
+}
+
+.page {
+    min-width: 480px;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.top-banner {
+    width: 100%;
+    display: block;
+}
